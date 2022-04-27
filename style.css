@@ -171,6 +171,7 @@ body {
   box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   padding: 2em;
+  padding-left: 3em;
 }
 .header2-card {
   display: flex;
@@ -323,7 +324,7 @@ body {
   font-size: 1em;
   line-height: 36px;
   padding: 0.1em 1.5em 0.1em 1.5em;
-  color: #08BD7F;
+  color: #08bd7f;
 
   opacity: 0.7;
   background: #232425;
