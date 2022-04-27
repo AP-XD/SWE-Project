@@ -252,6 +252,11 @@ body {
   box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
   border-radius: 20px 0 0 20px;
 }
+.marks-card21 {
+  margin-left: 0.1em;
+  background: #2a2b2d;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
+}
 .marks-card2 {
   margin-left: 0.1em;
   margin-right: 0.1em;
