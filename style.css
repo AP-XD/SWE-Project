@@ -15,6 +15,12 @@
   left: 1200px;
   top: 15px;
 }
+.header-img2 {
+  position: absolute;
+  width: 250px;
+  height: 200px;
+  left: 1200px;
+}
 .navside {
   background: #2a2b2d;
   color: #fff;
@@ -162,7 +168,7 @@ body {
   margin-top: 3.5em;
   margin-left: 1.5em;
   margin-right: 4.5em;
-  margin-bottom: 7.5em;
+  margin-bottom: 7em;
   background: #2a2b2d;
   background: linear-gradient(
     90deg,
@@ -222,8 +228,8 @@ body {
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
-  font-size: 64px;
-  line-height: 96px;
+  font-size: 4em;
+  line-height: 1.3em;
 
   color: #ffffff;
 }
@@ -249,8 +255,7 @@ body {
   background: #2a2b2d;
   box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
-  margin-right: 1rem;
-  margin-left: 1rem;
+  margin-left: 4rem;
 }
 .attendance-card1 {
   background: #2a2b2d;
@@ -533,4 +538,7 @@ body {
   opacity: 0.7;
   background: #3d372b;
   border-radius: 0 20px 0 0;
+}
+.welcome{
+  color:#C3B9FF;
 }
