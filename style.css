@@ -13,7 +13,8 @@
   width: 250px;
   height: 200px;
   left: 1200px;
-  top:15px}
+  top: 15px;
+}
 .navside {
   background: #2a2b2d;
   color: #fff;
@@ -310,6 +311,32 @@ body {
   line-height: 36px;
   padding: 0.1em 1.5em 0.1em 1.5em;
   color: #ffffff;
+
+  opacity: 0.7;
+  background: #232425;
+  border-radius: 10px;
+}
+.b11-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1em;
+  line-height: 36px;
+  padding: 0.1em 1.5em 0.1em 1.5em;
+  color: #08BD7F;
+
+  opacity: 0.7;
+  background: #232425;
+  border-radius: 10px;
+}
+.b12-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1em;
+  line-height: 36px;
+  padding: 0.1em 1.5em 0.1em 1.5em;
+  color: #fa4444;
 
   opacity: 0.7;
   background: #232425;
